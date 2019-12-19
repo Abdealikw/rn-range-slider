@@ -59,6 +59,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic) long long step;
 @property (nonatomic) long long lowValue;
 @property (nonatomic) long long highValue;
+@property BOOL alwaysShowLabel;
 
 @end
 

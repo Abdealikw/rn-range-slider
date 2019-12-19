@@ -53,6 +53,7 @@ RCT_EXPORT_VIEW_PROPERTY(initialHighValue, double)
 RCT_EXPORT_VIEW_PROPERTY(step, double)
 RCT_EXPORT_VIEW_PROPERTY(lowValue, double)
 RCT_EXPORT_VIEW_PROPERTY(highValue, double)
+RCT_EXPORT_VIEW_PROPERTY(alwaysShowLabel, BOOL)
 
 #pragma mark RangeSliderDelegate
 
